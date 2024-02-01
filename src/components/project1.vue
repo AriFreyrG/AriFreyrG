@@ -100,17 +100,8 @@
                 <h2>Renders made with v-ray</h2>
             </v-col>
         </v-row>
-           
-            
-	</v-container>
-
-        
-        
-        
-        
+	    </v-container>
     </v-container>
-    
-   
    </v-overlay>
  </template>
  
